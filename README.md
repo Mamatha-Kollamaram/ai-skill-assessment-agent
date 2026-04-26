@@ -3,7 +3,8 @@
 An interactive Streamlit application that evaluates a candidate's real skill proficiency based on a Job Description (JD) and Resume. It extracts the intersection of required and possessed skills, runs a live technical assessment, and creates a tailored technical learning roadmap.
 
 ## 🚀 Live Demo
-(Deployed link or "Run locally using instructions below")
+[Click here for Live Demo](https://ai-skill-assessment-agent-a8h3abfkkl49mdmsbhybny.streamlit.app/)
+(Or "Run locally using instructions below")
 
 ## 🎯 Problem
 Resumes often misrepresent actual skill levels. This agent evaluates real proficiency instead.
